@@ -26,7 +26,7 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClass = 'os.concepts.in.java.App'
+    mainClass = 'os.concepts.java.App'
 }
 
 tasks.named('test') {
